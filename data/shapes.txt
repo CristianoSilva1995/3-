@@ -1,0 +1,9 @@
+triangle red
+square green
+circle blue
+square green
+triangle green
+circle red
+square blue
+triangle blue
+square red
